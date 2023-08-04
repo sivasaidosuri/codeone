@@ -4,9 +4,8 @@
 	<h1 style="color: green; font-size: 20px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
         <h1 style="color: blue; font-size: 50px;" align="left">I lOVE MY COUNTRY</h1>
 	<h1 style="color: pink; font-size: 50px;" align="left">uk imigration</h1> <h1 style="color: pink; font-size: 50px;" align="right">uk visa status</h1>
-        <a href=“mailto:sivasai@gmai.com”>E-mail Us</a>
-        <a href=“mailto:gmail.com”>Contact Us</a>
-        <Contact Us>
+        <body style="background-color:aquamarine;">
+        <h1>HTML Articles</h1>
 
 	
 	
